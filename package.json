@@ -28,5 +28,8 @@
     "redux": "4.0.0",
     "webpack-livereload-plugin": "^2.1.1",
     "youtube-api-search": "0.0.5"
+  },
+  "webkit": {
+    "plugin": true
   }
 }
